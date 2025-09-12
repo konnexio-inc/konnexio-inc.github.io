@@ -19,5 +19,3 @@ If you expected the company's product or services pages, please go to the offici
 Welcome to **Konnexio Inc**, based in London, Ontario, Canada. We engineer and build smart automation machines that help manufacturers assemble, test, and innovate.
 
 {% include feature_row id="feature_row" %}
-
-<!-- NOTE: using placeholder hero.svg until final brand asset is available -->
