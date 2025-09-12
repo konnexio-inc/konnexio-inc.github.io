@@ -1,11 +1,16 @@
 # konnexio-inc.github.io
 
-GitHub Pages repo for Konnexio Inc’s public site with docs and republished open-source modifications.
+GitHub Pages repo for Konnexio Inc’s project documentation and republished open-source work. This site is not the official company website — visit the official site at [konnexio.com](https://konnexio.com) for company, product, and services information.
 
 ## Stack
 
 - Jekyll with the **Minimal Mistakes** remote theme.
 - GitHub Pages builds from the `main` branch.
+
+Project pages hosted here:
+
+- Litime BLE: [https://konnexio-inc.github.io/litime-ble/](https://konnexio-inc.github.io/litime-ble/)
+- Agrotrax: [https://konnexio-inc.github.io/agrotrax/](https://konnexio-inc.github.io/agrotrax/)
 
 ## Local development
 

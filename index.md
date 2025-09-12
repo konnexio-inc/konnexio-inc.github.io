@@ -1,31 +1,19 @@
 ---
-layout: splash
+layout: single
 title: "Konnexio Inc"
-subtitle: "Smart automation for assembly and testing"
 permalink: /
-excerpt: "Modular Adapto™ Smart Cells, custom machine design and build, and R&D in agricultural robotics."
-header:
-  overlay_color: "#000"
-  overlay_filter: 0.45
-  overlay_image: /assets/images/hero.svg # replace with a banner image
-  actions:
-    - label: "About"
-      url: /about/
-    - label: "Contact"
-      url: /contact/
-feature_row:
-  - title: "Adapto™ Smart Cells"
-    excerpt: "Modular cells that run stand-alone or scale into full lines."
-    url: /about/#what-we-do
-    btn_label: "Overview"
-  - title: "Custom Automation"
-    excerpt: "Turnkey design, controls, build, and in-house machining."
-    url: /about/#what-we-do
-    btn_label: "Capabilities"
-  - title: "R&D"
-    excerpt: "Applied research in next-generation agricultural robotics."
-    url: /about/#innovation--rd
-    btn_label: "See focus"
+excerpt: "Docs and open-source project landing for Konnexio Inc — visit konnexio.com for the company site."
+
+Welcome to the Konnexio Inc GitHub Pages site. This repository is used for project documentation and republished open-source work. For the official company website and full corporate information, please visit the main site:
+
+- Official site: https://konnexio.com
+
+Key project pages hosted here:
+
+- Litime BLE: /litime-ble/ — Bluetooth LE firmware and docs. (https://konnexio-inc.github.io/litime-ble/)
+- Agrotrax: /agrotrax/ — Agricultural robotics project documentation. (https://konnexio-inc.github.io/agrotrax/)
+
+If you expected the company's product or services pages, please go to the official site linked above.
 ---
 
 Welcome to **Konnexio Inc**, based in London, Ontario, Canada. We engineer and build smart automation machines that help manufacturers assemble, test, and innovate.

@@ -1,27 +1,11 @@
 ---
-title: "About Konnexio"
+title: "About"
 permalink: /about/
 layout: single
 ---
 
-## What we do
+This GitHub Pages site is not the official company website. For detailed company, product, and services information (including Adapto™ Smart Cells and other offerings), please visit the official site:
 
-- **Adapto™ Smart Cells**: our modular automation platform for flexible manufacturing. Cells operate independently or combine into full production lines.
-- **Custom automation solutions**: turnkey systems that cover mechanical design, controls, build, and commissioning with in-house machining.
-- **Industry reach**: automotive, medical devices, consumer goods, and more.
+- https://konnexio.com
 
-### Innovation & R&D
-
-We actively develop custom engineered **agricultural robotics** by applying our automation expertise to new markets and field conditions.
-
-### Ontario Made
-
-Adapto is listed with **Ontario Made**. Learn more here: <https://supportontariomade.ca/explore-products/adapto>
-
-### Company info
-
-- **Founded**: 2003  
-- **Location**: 14-70 Pacific Court, Unit 14, London, Ontario, N5V 3R5  
-- **Phone**: (519) 457-8836  
-
-For a project discussion, visit our site or contact us.
+Project documentation and open-source project pages are available from this repository — see the homepage links for Litime BLE and Agrotrax.
