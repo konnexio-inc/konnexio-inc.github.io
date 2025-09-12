@@ -12,6 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3" # pinned to stable release
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+minimal_mistakes_skin: "contrast"
 
 locale: "en"
 markdown: kramdown

@@ -1,7 +1,0 @@
-/* Wrapper main.css to pick up the theme-generated main CSS
-   Minimal Mistakes may emit its compiled CSS at /main/index.css; import it here
-   so that the theme link /assets/css/main.css resolves correctly. */
-
-@import url("/main/index.css");
-
-/* End wrapper */
