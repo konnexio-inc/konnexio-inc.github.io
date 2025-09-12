@@ -285,7 +285,7 @@ DEPENDENCIES
   github-pages
   jekyll-include-cache
   jekyll-remote-theme
-  wdm (>= 0.1.0)
+  wdm (>= 0.1)
   webrick (~> 1.8)
 
 BUNDLED WITH
