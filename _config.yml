@@ -1,0 +1,69 @@
+title: "Konnexio Inc"
+name: "Konnexio Inc"
+description: "Smart automation for assembly and testing."
+url: "https://konnexio-inc.github.io"
+baseurl: ""
+repository: "konnexio-inc/konnexio-inc.github.io"
+logo: "/assets/images/logo.svg" # placeholder logo (replace when available)
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3" # pinned to stable release
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+locale: "en"
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Minimal Mistakes settings
+search: true
+breadcrumbs: true
+
+author:
+  name: "Konnexio Inc"
+  avatar: null
+  bio: "Engineering modular automation and custom machine solutions."
+  location: "London, Ontario, Canada"
+  links:
+    - label: "Website"
+      icon: "fas fa-globe"
+      url: "https://konnexio.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://ca.linkedin.com/company/konnexio-inc-"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/konnexioinc/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /news/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: false
+      toc: false
+      permalink: /:basename/
+
+# Directories to include in publishing
+include:
+  - _pages
+
+# Files to exclude from publishing
+exclude:
+  - TODO.md

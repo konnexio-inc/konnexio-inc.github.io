@@ -1,0 +1,18 @@
+/* Brand tweaks and small utilities */
+:root {
+  --brand-primary: #0f4c81; /* adjust to brand */
+}
+
+.page__content a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.page__content a:hover {
+  border-bottom-color: currentColor;
+}
+
+/* Optional: darker overlay readability for hero images */
+.masthead__menu-item a {
+  font-weight: 600;
+}
