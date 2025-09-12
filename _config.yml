@@ -68,3 +68,4 @@ include:
 exclude:
   - TODO.md
   - README.md
+  - vendor/bundle
