@@ -10,6 +10,6 @@ Welcome to the Konnexio Inc GitHub Pages site. This repository is used for proje
 Key project pages hosted here:
 
 - Litime BLE: [Litime BLE](/litime-ble/) — Bluetooth LE firmware and docs. Repository: [konnexio-inc/litime-ble](https://github.com/konnexio-inc/litime-ble)
-- Agrotrax: [Agrotrax](/agrotrax/) — Agricultural robotics project documentation. (Add docs to this page as available.)
+- Agrotrax: [Agrotrax](/agrotrax/) — Agricultural robotics project documentation.
 
 If you expected the company's product or services pages, please visit the official site linked above.

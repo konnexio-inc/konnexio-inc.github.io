@@ -1,6 +1,7 @@
 title: "Konnexio Inc"
 name: "Konnexio Inc"
 description: "Smart automation for assembly and testing."
+# Purpose: This GH Pages repo hosts project documentation and republished open-source work; the official company site is https://konnexio.com
 url: "https://konnexio-inc.github.io"
 baseurl: ""
 repository: "konnexio-inc/konnexio-inc.github.io"
