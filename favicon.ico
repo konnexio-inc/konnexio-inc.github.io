@@ -1,0 +1,7 @@
+/* Placeholder favicon binary not practical in patch; create a small SVG served as ICO replacement.
+   Using an SVG file named favicon.ico is acceptable for dev; recommend replacing with a proper .ico. */
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="100%" height="100%" fill="#0f4c81" />
+  <text x="50%" y="55%" font-size="28" text-anchor="middle" fill="#fff" font-family="Arial">K</text>
+</svg>

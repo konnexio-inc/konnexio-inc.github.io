@@ -2,6 +2,7 @@
 layout: splash
 title: "Konnexio Inc"
 subtitle: "Smart automation for assembly and testing"
+permalink: /
 excerpt: "Modular Adapto™ Smart Cells, custom machine design and build, and R&D in agricultural robotics."
 header:
   overlay_color: "#000"

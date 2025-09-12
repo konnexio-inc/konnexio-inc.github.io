@@ -67,3 +67,4 @@ include:
 # Files to exclude from publishing
 exclude:
   - TODO.md
+  - README.md
