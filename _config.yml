@@ -5,7 +5,7 @@ description: "Smart automation for assembly and testing."
 url: "https://konnexio-inc.github.io"
 baseurl: ""
 repository: "konnexio-inc/konnexio-inc.github.io"
-logo: "/assets/images/logo.svg" # placeholder logo (replace when available)
+logo: "/assets/images/logo.png" # placeholder logo
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3" # pinned to stable release
 
